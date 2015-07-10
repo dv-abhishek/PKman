@@ -9,7 +9,7 @@ PKMAN is a 2D game running on OpenGL. It was inspired from the movie PK. This Pr
 Installation:
 
 1. Install OpenGL using "sudo apt-get install freeglut3 freeglut3-dev mesa-utils"
-2. Compile projectmain.c using "gcc projectmain.c -lm -lGL -lGLU -lglut"
+2. Compile projectmain.c using "gcc main.c -lm -lGL -lGLU -lglut"
 
 
 
